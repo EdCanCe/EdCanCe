@@ -1,1 +1,2 @@
-<h3 style="text-align: center;">Hi!!<br>I'm Edmundo Canedo</h3>
+<h1 style="text-align: center;">Hi!!</h1>
+<h1 style="text-align: center;">I'm Edmundo Canedo</h1>
