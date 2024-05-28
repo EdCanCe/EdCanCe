@@ -7,4 +7,7 @@
 <a text-decoration: none;>
 <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=edcance&theme=merko&hide_border=true" />
 </a>
+<a text-decoration: none;>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edcance&layout=compact&theme=merko&hide_border=true">
+</a>
 </div>
